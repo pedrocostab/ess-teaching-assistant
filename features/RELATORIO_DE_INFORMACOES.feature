@@ -18,3 +18,4 @@ Scenario: student doing his self-evaluation
 Given The student “Cicrano” has "MPA" for the average learning goals stored in system
 When “Cicrano” sends “MPA” for his three self-evaluation grades
 Then the system stores “MPA” for his self-evaluation grades in the system.
+Then the system closes
