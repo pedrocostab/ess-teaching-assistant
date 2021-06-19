@@ -48,4 +48,3 @@ And I see “João” grades, “MA, MA, MPA, MA, MA”, and her self-evaluation
 When  i look at the “% of discrepancy” space for each student i see “Maria” with 0%
 And I see “Jose” with 20%
 And I see “João” with 0%
-Then I am at the "Página do Professor"
