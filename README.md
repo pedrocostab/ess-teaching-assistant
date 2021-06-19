@@ -1,1 +1,1 @@
-# ess-teaching-assistant
+teaching-assistant
